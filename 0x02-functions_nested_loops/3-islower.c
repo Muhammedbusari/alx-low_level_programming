@@ -10,5 +10,5 @@ int_islower(int c)
 	if (c >= 'a' && c <= 'z')
 		return (1);
 	else
-		retur n(0);
+		return (0);
 }
