@@ -14,6 +14,7 @@ int main(void)
 	int i, sum, n, num;
 
 	sum = 0;
+	n = 0;
 
 	srand(time(NULL));
 
