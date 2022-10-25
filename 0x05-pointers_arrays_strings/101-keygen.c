@@ -12,6 +12,7 @@ int main(void)
 {
 	int pass[100];
 	int i, sum, n;
+	int num;
 
 	sum = 0;
 	n = 0;
