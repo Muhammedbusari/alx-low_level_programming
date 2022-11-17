@@ -1,8 +1,3 @@
-/*
- * File: 3-print_all.c
- * Auth: Busari Muhammed
- */
-
 #include "variadic_functions.h"
 #include <stdio.h>
 #include <stdarg.h>
