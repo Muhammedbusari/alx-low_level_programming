@@ -5,7 +5,7 @@
 /**
  * print_c - print a char
  * @c: char to print
- * Return: Always 0
+ * Return: void
  */
 
 void print_c(va_list c)
@@ -16,7 +16,7 @@ void print_c(va_list c)
 /**
  * print_s - prints a string
  * @s: string to print
- * Return: Always 0
+ * Return: void
  */
 
 void print_s(va_list s)
@@ -31,7 +31,7 @@ void print_s(va_list s)
 /**
  * print_i - prints an int
  * @i: int to print
- * Return: Always 0
+ * Return: void
  */
 
 void print_i(va_list i)
@@ -42,7 +42,7 @@ void print_i(va_list i)
 /**
  * print_f - prints a float
  * @f: float to print
- * Return: Always 0
+ * Return: void
  */
 
 void print_f(va_list f)
@@ -53,7 +53,7 @@ void print_f(va_list f)
 /**
  * print_all - prints anything
  * @format: list of argument types passed to the function
- * Return: Always 0
+ * Return: void
  */
 
 void print_all(const char * const format, ...)
